@@ -1,6 +1,6 @@
 <?php
 //
-// Базовый контроллер сайта.
+// Базовый контроллер сайта
 //
 //
 abstract class C_Base extends C_Controller{
