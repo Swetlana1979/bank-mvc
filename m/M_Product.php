@@ -2,7 +2,7 @@
 class M_Product
 {
 	private static $instance; 	// ссылка на экземпляр класса
-	private $msql; 				// драйвер БД
+	private $msql; 			// драйвер БД
 	
 	//
 	// Получение единственного экземпляра (синглтон)
